@@ -1,0 +1,46 @@
+body {
+  height: 100vh;
+  background-color: #93bcff;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.box {
+  margin-top: 30vh;
+  margin-left: 40%; 
+  padding: 15px 10px;
+  background-color: white;
+  opacity: 0.8;
+  color: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 35px 7px;
+}
+.weather {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.name {
+  border-top: 3px solid teal; 
+  font-size: 20px;
+}
+.temp {
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+#toggletemp {
+  float: left;
+  margin-left: 20px;
+  padding-bottom: 20px;
+}
+
+.icon>i {
+  border-bottom: 3px solid teal;
+  margin-bottom: 0;
+  vertical-align: bottom;
+  bottom: 10px;
+  font-size: 50px;
+}
+
+p.icon {
+  margin:0;
+}
