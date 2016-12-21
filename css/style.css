@@ -1,6 +1,8 @@
 body {
   height: 100vh;
   background-color: #93bcff;
+  background-size: cover;
+  background-position: center center;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
